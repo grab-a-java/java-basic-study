@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exercise5_13 {
+class p5_13 {
   public static void main(String args[]) {
     String[] words = { "television", "computer", "mouse", "phone" };
     Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-public class Excercise9_5 {
+public class Exercise9_5 {
   public static int count(String src, String target) {
     int count = 0;
     int pos = 0;

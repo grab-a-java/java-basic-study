@@ -1,3 +1,7 @@
 {
-  "java.project.sourcePaths": ["itsme-shawn/ch_06", "itsme-shawn/ch_07"]
+  "java.project.sourcePaths": [
+    "itsme-shawn/ch_07",
+    "itsme-shawn/ch_06",
+    "itsme-shawn/ch_08"
+  ]
 }

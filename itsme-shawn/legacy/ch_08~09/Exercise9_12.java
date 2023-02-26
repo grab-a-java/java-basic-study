@@ -1,6 +1,6 @@
 public class Exercise9_12 {
   	private static int getRand(int from, int to) {
-		return (int)(Math.random()*(Math.abs(to-from)+1))+Math.min(from, to);
+		return (int)(Math.random()*(Math.abs(to-from)))+Math.min(from, to) +1 ;
 	}
 	
 	public static void main(String[] args) {
